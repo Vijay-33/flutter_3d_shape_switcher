@@ -1,11 +1,10 @@
 # Flutter 3D Shape Switcher (3D Morph Animator)
 
-A small Flutter demo that renders a rotating 3D point cloud and morphs it between multiple shapes (sphere, cube, heart, donut). The morph progress is driven by a `PageView`, so you can scrub transitions by swiping (or tap a card to jump).
+A small Flutter demo that renders a rotating 3D point cloud and morphs it between multiple shapes (sphere, cube, heart, donut). The morph progress is driven by a `PageView`, so you can scrub transitions by swiping anywhere on the page.
 
 ## Demo Controls
 
-- Swipe the bottom shape switcher to morph between shapes.
-- Tap a shape card to animate directly to it.
+- Swipe anywhere to morph between shapes.
 - The shape continuously rotates around the Y axis.
 
 ## How It Works
@@ -33,7 +32,7 @@ flutter run
 ## Customize
 
 - **Point density**: tweak `_pointCount` in `lib/three_dot_animation_switcher_page.dart`.
-- **Add a new shape**: generate a new `List<Vec3>` of the same length and append it to `_shapes` (and add a label to `_shapeLabels`).
+- **Add a new shape**: generate a new `List<Vec3>` of the same length and append it to `_shapes`.
 - **Look & feel**: adjust perspective/tilt/dot sizing in `lib/dot_morph_painter.dart`.
 
 ## License

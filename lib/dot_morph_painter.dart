@@ -25,7 +25,7 @@ class DotMorphPainter extends CustomPainter {
     final center = Offset(size.width / 2, size.height / 2);
 
     final baseScale = size.shortestSide * 0.42;
-    final baseDotRadius = (size.shortestSide * 0.0042).clamp(1.2, 2.8).toDouble();
+    final baseDotRadius = (size.shortestSide * 0.0042).clamp(1.2, 2.8).toDouble() * 0.5;
 
     const cameraDistance = 4.2;
     const tiltX = 0.35;
